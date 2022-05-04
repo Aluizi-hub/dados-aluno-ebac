@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Adriano
+-Profissão: Desenvolvedor
+-Cidade: Itirapina - SP
+-O que faz nas horas vaga: Livros, Games, Futebol
+-Feedback sobre o curso Qualidade de Software: Otimo curso mesclando otimos conteudos teoricos e praticos.
+-Feedback sobre a plataforma de estudo da EBAC: Bem intuitiva e de facil uso.
 
 Obrigado!!!
 
